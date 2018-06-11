@@ -1,8 +1,9 @@
 package com.javarush.task.task04.task0404;
 
+/*
+Напишите метод setCatsCount. Метод должен устанавливать количество котов (catsCount).
+ */
 public class Cat {
-
-//    Напишите метод setCatsCount. Метод должен устанавливать количество котов (catsCount).
 
     private static int catsCount = 0;
 
