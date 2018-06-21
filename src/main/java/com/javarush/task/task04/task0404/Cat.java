@@ -7,7 +7,7 @@ public class Cat {
 
     private static int catsCount = 0;
 
-    public static void addNewCat() {
+    public static void setCatsCount() {
 
         Cat.catsCount = +1;
     }
@@ -15,7 +15,7 @@ public class Cat {
     public static void main(String[] args) {
 
         Cat cat = new Cat();
-        cat.addNewCat();
+        cat.setCatsCount();
 
     }
 }
