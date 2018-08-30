@@ -12,7 +12,7 @@ import java.util.List;
 public class Solution {
     public static void main(String[] args) throws Exception {
 
-        ArrayList<Integer> all = new ArrayList<>();
+        ArrayList<Integer> all = new ArrayList<Integer>();
         ArrayList<Integer> list3 = new ArrayList<Integer>();
         ArrayList<Integer> list2 = new ArrayList<Integer>();
         ArrayList<Integer> listOther = new ArrayList<Integer>();
